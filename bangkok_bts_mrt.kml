@@ -1,0 +1,488 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>BTS + MRT - Bangkok Mass Transit</name>
+		<description><![CDATA[Thailand Bangkok Sky Train and Subway Metro underground train route map<br><br>http://busbkk.blogspot.com/]]></description>
+		<Folder>
+			<name>Untitled layer</name>
+			<Placemark>
+				<name>Baring - Mochit</name>
+				<description><![CDATA[http://busbkk.blogspot.com/]]></description>
+				<styleUrl>#line-FF0000-5</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>100.601871,13.661323,0.0 100.60661,13.67334,0.0 100.610282,13.682079,0.0 100.610561,13.68456,0.0 100.609746,13.687833,0.0 100.60824,13.69068,0.0 100.59914,13.70936,0.0 100.56215,13.735710000000001,0.0 100.55734,13.73926,0.0 100.55357,13.74197,0.0 100.53039,13.74655,0.0 100.55369,13.80278,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>National Stadium -  Talat Phlu</name>
+				<description><![CDATA[http://busbkk.blogspot.com/]]></description>
+				<styleUrl>#line-009900-5</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>100.52897,13.74618,0.0 100.54009,13.7443,0.0 100.53867,13.73492,0.0 100.53655,13.72931,0.0 100.52805,13.72623,0.0 100.53031,13.72187,0.0 100.51713,13.71793,0.0 100.50541,13.72079,0.0 100.49533000000001,13.72112,0.0 100.49119,13.72068,0.0 100.48913,13.72016,0.0 100.487,13.71937,0.0 100.4849,13.71891,0.0 100.48368,13.71847,0.0 100.48173,13.71745,0.0 100.480678,13.716727,0.0 100.479927,13.716227,0.0 100.47782400000001,13.71483,0.0 100.477451,13.714629,0.0 100.477207,13.714509,0.0 100.477116,13.714473,0.0 100.477033,13.714421,0.0 100.47695000000002,13.714377,0.0 100.476883,13.714337,0.0 100.476832,13.714298,0.0 100.476738,13.714244,0.0 100.476566,13.714152,0.0 100.476384,13.714048,0.0 100.476293,13.714009,0.0 100.476226,13.713954,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>On Nut</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.60103400000001,13.705433,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Phra Khanong</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.591378,13.715143,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ekkamai</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.58479100000001,13.71977,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Thong Lo</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.57854700000001,13.724169,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Phrom Phong</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.569255,13.730818,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Asoke</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.560243,13.736967,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ploen Chit</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.54900500000001,13.743074000000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chit Lom</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.543098,13.744091,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Siam Exchange Station</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.534301,13.745594,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>National Stadium</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.52899,13.746508000000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rachathewi</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.531619,13.751703,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Phaya Thai</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.533979,13.756893,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Victory Monument</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.536929,13.762744000000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sanam Pao</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.542106,13.772529,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ari</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.544659,13.779745,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Saphan Khwai</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.549724,13.793812,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mo Chit</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.553811,13.802601,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Taksin </name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.514179,13.71884,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Surasak</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.521684,13.719208,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Baring</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.601871,13.661281,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wong Wien Yai</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.49528,13.721125,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Krung Thonburi</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.50247900000001,13.721,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ratchadamri</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.539579,13.739427,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chong Nonsi</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.52958,13.72371,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Saladang</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.534387,13.72864,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bang Chak</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.605535,13.696563,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punnawithi</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.609145,13.689193,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Udomsuk</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.609488,13.679921,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bangna</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.604714,13.668125,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MRT (subway)</name>
+				<description><![CDATA[http://busbkk.blogspot.com/]]></description>
+				<styleUrl>#line-CC33CC-5</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>100.51712,13.73763,0.0 100.55914,13.7202,0.0 100.56034,13.72391,0.0 100.56045,13.72574,0.0 100.56007,13.72935,0.0 100.55989,13.73242,0.0 100.55997,13.73349,0.0 100.56044,13.73733,0.0 100.56181,13.73917,0.0 100.56205,13.74319,0.0 100.56423,13.752800000000002,0.0 100.56553,13.75926,0.0 100.56665,13.76181,0.0 100.57115,13.7671,0.0 100.57261,13.76919,0.0 100.57309,13.77064,0.0 100.57485,13.80553,0.0 100.56002,13.81363,0.0 100.55069000000002,13.79792,0.0 100.54763,13.79765,0.0 100.543399,13.797803,0.0 100.540438,13.798032000000001,0.0 100.539129,13.798157,0.0 100.538421,13.798407,0.0 100.538099,13.79924,0.0 100.53934,13.803360000000001,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Sam Yan</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.529449,13.732632,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hua Lamphong</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.51712,13.737843000000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Silom</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.538078,13.729463,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lumphini</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.54635600000002,13.725003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Klong Toei</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.554146,13.722543,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Queen Sirikit</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.560165,13.722647000000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sukhumwit</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.561417,13.738562,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Phetchaburi</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.563492,13.748379,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Phra Ram 9</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.565605,13.758092,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Thailand Cultural</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.570107,13.766095,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Huai Khwang</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.57341,13.779079,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sutthisan</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.573807,13.789363,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ratchadaphisek</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.574875,13.799449,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lad Phrao</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.574364,13.805617,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Phahon Yothin</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.56018100000001,13.81416,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chatuchak Park</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.553818,13.803564,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kampaeng Pet</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.548828,13.798074,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bangsue</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.539322,13.803377,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pho Nimit</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.484734,13.718957,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Talat Phlu</name>
+				<styleUrl>#icon-22-nodesc</styleUrl>
+				<Point>
+					<coordinates>100.476344,13.713934,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-22-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-22-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-22-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-22-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-22-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-009900-5-normal'>
+			<LineStyle>
+				<color>ff009900</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-009900-5-highlight'>
+			<LineStyle>
+				<color>ff009900</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-009900-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-009900-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-009900-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-CC33CC-5-normal'>
+			<LineStyle>
+				<color>ffCC33CC</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-CC33CC-5-highlight'>
+			<LineStyle>
+				<color>ffCC33CC</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-CC33CC-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-CC33CC-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-CC33CC-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-FF0000-5-normal'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-FF0000-5-highlight'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>8.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-FF0000-5'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-FF0000-5-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-FF0000-5-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
