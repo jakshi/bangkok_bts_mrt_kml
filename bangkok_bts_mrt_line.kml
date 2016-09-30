@@ -57,13 +57,13 @@
 		</StyleMap>
 		<Style id='line-CC33CC-5-normal'>
 			<LineStyle>
-				<color>ffCC33CC</color>
+				<color>164BA0</color>
 				<width>5</width>
 			</LineStyle>
 		</Style>
 		<Style id='line-CC33CC-5-highlight'>
 			<LineStyle>
-				<color>ffCC33CC</color>
+				<color>164BA0</color>
 				<width>8.0</width>
 			</LineStyle>
 		</Style>
