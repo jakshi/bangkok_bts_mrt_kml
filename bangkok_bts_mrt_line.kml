@@ -2,22 +2,22 @@
 <kml xmlns='http://www.opengis.net/kml/2.2'>
 	<Document>
 		<name>BTS + MRT - Bangkok Mass Transit</name>
-		<description><![CDATA[Thailand Bangkok Sky Train and Subway Metro underground train route map<br><br>http://busbkk.blogspot.com/]]></description>
+		<description><![CDATA[Thailand Bangkok Sky Train and Subway Metro underground train route map]]></description>
 		<Folder>
 			<name>Untitled layer</name>
 			<Placemark>
-				<name>Baring - Mochit</name>
-				<description><![CDATA[http://busbkk.blogspot.com/]]></description>
-				<styleUrl>#line-FF0000-5</styleUrl>
+				<name>BTS Bearing - Mochit</name>
+				<description>BTS Bearing - Mo Chit</description>
+				<styleUrl>#line-BTS-1</styleUrl>
 				<LineString>
 					<tessellate>1</tessellate>
 					<coordinates>100.601871,13.661323,0.0 100.60661,13.67334,0.0 100.610282,13.682079,0.0 100.610561,13.68456,0.0 100.609746,13.687833,0.0 100.60824,13.69068,0.0 100.59914,13.70936,0.0 100.56215,13.735710000000001,0.0 100.55734,13.73926,0.0 100.55357,13.74197,0.0 100.53039,13.74655,0.0 100.55369,13.80278,0.0</coordinates>
 				</LineString>
 			</Placemark>
 			<Placemark>
-				<name>National Stadium -  Talat Phlu</name>
-				<description><![CDATA[http://busbkk.blogspot.com/]]></description>
-				<styleUrl>#line-009900-5</styleUrl>
+				<name>BTS National Stadium - Bang Wa</name>
+				<description>BTS National Stadium - Bang Wa</description>
+				<styleUrl>#line-BTS-2</styleUrl>
 				<LineString>
 					<tessellate>1</tessellate>
 					<coordinates>100.52897,13.74618,0.0 100.54009,13.7443,0.0 100.53867,13.73492,0.0 100.53655,13.72931,0.0 100.52805,13.72623,0.0 100.53031,13.72187,0.0 100.51713,13.71793,0.0 100.50541,13.72079,0.0 100.49533000000001,13.72112,0.0 100.49119,13.72068,0.0 100.48913,13.72016,0.0 100.487,13.71937,0.0 100.4849,13.71891,0.0 100.48368,13.71847,0.0 100.48173,13.71745,0.0 100.480678,13.716727,0.0 100.479927,13.716227,0.0 100.47782400000001,13.71483,0.0 100.477451,13.714629,0.0 100.477207,13.714509,0.0 100.477116,13.714473,0.0 100.477033,13.714421,0.0 100.47695000000002,13.714377,0.0 100.476883,13.714337,0.0 100.476832,13.714298,0.0 100.476738,13.714244,0.0 100.476566,13.714152,0.0 100.476384,13.714048,0.0 100.476293,13.714009,0.0 100.476226,13.713954,0.0</coordinates>
@@ -33,26 +33,26 @@
 				</LineString>
 			</Placemark>
 		</Folder>
-		<Style id='line-009900-5-normal'>
+		<Style id='line-BTS-2-normal'>
 			<LineStyle>
 				<color>ff009900</color>
 				<width>5</width>
 			</LineStyle>
 		</Style>
-		<Style id='line-009900-5-highlight'>
+		<Style id='line-BTS-2-highlight'>
 			<LineStyle>
 				<color>ff009900</color>
 				<width>8.0</width>
 			</LineStyle>
 		</Style>
-		<StyleMap id='line-009900-5'>
+		<StyleMap id='line-BTS-2'>
 			<Pair>
 				<key>normal</key>
-				<styleUrl>#line-009900-5-normal</styleUrl>
+				<styleUrl>#line-BTS-2-normal</styleUrl>
 			</Pair>
 			<Pair>
 				<key>highlight</key>
-				<styleUrl>#line-009900-5-highlight</styleUrl>
+				<styleUrl>#line-BTS-2-highlight</styleUrl>
 			</Pair>
 		</StyleMap>
 		<Style id='line-MRT-normal'>
@@ -77,26 +77,26 @@
 				<styleUrl>#line-MRT-highlight</styleUrl>
 			</Pair>
 		</StyleMap>
-		<Style id='line-FF0000-5-normal'>
+		<Style id='line-BTS-1-normal'>
 			<LineStyle>
-				<color>ff0000FF</color>
+				<color>ff71F296</color>
 				<width>5</width>
 			</LineStyle>
 		</Style>
-		<Style id='line-FF0000-5-highlight'>
+		<Style id='line-BTS-1-highlight'>
 			<LineStyle>
-				<color>ff0000FF</color>
+				<color>ff71F296</color>
 				<width>8.0</width>
 			</LineStyle>
 		</Style>
-		<StyleMap id='line-FF0000-5'>
+		<StyleMap id='line-BTS-1'>
 			<Pair>
 				<key>normal</key>
-				<styleUrl>#line-FF0000-5-normal</styleUrl>
+				<styleUrl>#line-BTS-1-normal</styleUrl>
 			</Pair>
 			<Pair>
 				<key>highlight</key>
-				<styleUrl>#line-FF0000-5-highlight</styleUrl>
+				<styleUrl>#line-BTS-1-highlight</styleUrl>
 			</Pair>
 		</StyleMap>
 	</Document>
