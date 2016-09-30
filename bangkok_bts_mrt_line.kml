@@ -57,13 +57,13 @@
 		</StyleMap>
 		<Style id='line-MRT-normal'>
 			<LineStyle>
-				<color>ff164BA0</color>
+				<color>ffA04B16</color>
 				<width>5</width>
 			</LineStyle>
 		</Style>
 		<Style id='line-MRT-highlight'>
 			<LineStyle>
-				<color>ff164BA0</color>
+				<color>ffA04B16</color>
 				<width>8.0</width>
 			</LineStyle>
 		</Style>
