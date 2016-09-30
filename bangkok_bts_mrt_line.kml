@@ -25,8 +25,8 @@
 			</Placemark>
 			<Placemark>
 				<name>MRT (subway)</name>
-				<description><![CDATA[http://busbkk.blogspot.com/]]></description>
-				<styleUrl>#line-CC33CC-5</styleUrl>
+				<description>MRT SubWay line</description>
+				<styleUrl>#line-MRT</styleUrl>
 				<LineString>
 					<tessellate>1</tessellate>
 					<coordinates>100.51712,13.73763,0.0 100.55914,13.7202,0.0 100.56034,13.72391,0.0 100.56045,13.72574,0.0 100.56007,13.72935,0.0 100.55989,13.73242,0.0 100.55997,13.73349,0.0 100.56044,13.73733,0.0 100.56181,13.73917,0.0 100.56205,13.74319,0.0 100.56423,13.752800000000002,0.0 100.56553,13.75926,0.0 100.56665,13.76181,0.0 100.57115,13.7671,0.0 100.57261,13.76919,0.0 100.57309,13.77064,0.0 100.57485,13.80553,0.0 100.56002,13.81363,0.0 100.55069000000002,13.79792,0.0 100.54763,13.79765,0.0 100.543399,13.797803,0.0 100.540438,13.798032000000001,0.0 100.539129,13.798157,0.0 100.538421,13.798407,0.0 100.538099,13.79924,0.0 100.53934,13.803360000000001,0.0</coordinates>
@@ -55,26 +55,26 @@
 				<styleUrl>#line-009900-5-highlight</styleUrl>
 			</Pair>
 		</StyleMap>
-		<Style id='line-CC33CC-5-normal'>
+		<Style id='line-NRT-normal'>
 			<LineStyle>
-				<color>164BA0</color>
+				<color>ff164BA0</color>
 				<width>5</width>
 			</LineStyle>
 		</Style>
-		<Style id='line-CC33CC-5-highlight'>
+		<Style id='line-MRT-highlight'>
 			<LineStyle>
-				<color>164BA0</color>
+				<color>ff164BA0</color>
 				<width>8.0</width>
 			</LineStyle>
 		</Style>
-		<StyleMap id='line-CC33CC-5'>
+		<StyleMap id='line-MRT'>
 			<Pair>
 				<key>normal</key>
-				<styleUrl>#line-CC33CC-5-normal</styleUrl>
+				<styleUrl>#line-MRT-normal</styleUrl>
 			</Pair>
 			<Pair>
 				<key>highlight</key>
-				<styleUrl>#line-CC33CC-5-highlight</styleUrl>
+				<styleUrl>#line-MRT-highlight</styleUrl>
 			</Pair>
 		</StyleMap>
 		<Style id='line-FF0000-5-normal'>
