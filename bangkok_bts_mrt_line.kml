@@ -24,8 +24,8 @@
 				</LineString>
 			</Placemark>
 			<Placemark>
-				<name>MRT (subway)</name>
-				<description>MRT SubWay line</description>
+				<name>MRT (SubWay)</name>
+				<description>MRT (SubWay) line</description>
 				<styleUrl>#line-MRT</styleUrl>
 				<LineString>
 					<tessellate>1</tessellate>
@@ -55,7 +55,7 @@
 				<styleUrl>#line-009900-5-highlight</styleUrl>
 			</Pair>
 		</StyleMap>
-		<Style id='line-NRT-normal'>
+		<Style id='line-MRT-normal'>
 			<LineStyle>
 				<color>ff164BA0</color>
 				<width>5</width>
